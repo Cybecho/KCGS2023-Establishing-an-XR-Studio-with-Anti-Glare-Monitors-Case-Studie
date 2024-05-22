@@ -12,6 +12,13 @@ Dept. of Media Technology and Media Contents, The Catholic University of Korea
  - Dohee kim
  - Seonmin Yoon
  - Myung Geol Choi
+  
+```
+* 구두발표논문
+* 본 논문은 학부생 발표 논문임
+* 이 성과는 정부(과학기술정보통신부)의 재원으로 한국연구재단
+의 지원을 받아 수행된 연구임 (No. 2021R1F1A1048002)
+```
 
 <br/>
 
