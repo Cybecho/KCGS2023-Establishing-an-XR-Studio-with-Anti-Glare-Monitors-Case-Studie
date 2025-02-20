@@ -2,6 +2,8 @@
 
 ## 안티글레어 모니터를 이용한 XR 스튜디오 구성 및 작품 제작 사례*
 
+[프로젝트 페이지](https://cg.catholic.ac.kr/~mgchoi/publications/XRStudio/)
+
 [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492748)
 
 [원본 논문 읽기](https://github.com/Cybecho/KCGS2023-Establishing-an-XR-Studio-with-Anti-Glare-Monitors-Case-Studie/blob/main/XR%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4_KCGS2023.pdf)
